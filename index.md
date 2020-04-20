@@ -2,6 +2,7 @@ index page
 
 Testing ...
 
+![Image of LeanSwift](images/LeanSwift-Logo-HQ.png)<!-- .element height="50%" width="50%" -->
 
 
 ## LeanSwift HubSpot M3 Connector: User Guide
