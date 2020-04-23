@@ -1,8 +1,14 @@
 ![Image of LeanSwift](images/LeanSwift-Logo-HQ.png) 
 
 
-![img1](images/1.jpeg)                  ![img3](images/3.jpeg) 
+![img1](images/1.jpeg)  &nbsp;&nbsp;&nbsp;&nbsp; ![img3](images/3.jpeg) 
 
+
+
+[![homepage][1]][2]
+
+[1]:  http://commonmark.org/help/images/favicon.png
+[2]:  http://commonmark.org "Redirect to homepage"
 
 ## LeanSwift HubSpot M3 Connector: User Guide
 
