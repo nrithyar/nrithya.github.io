@@ -1,7 +1,7 @@
 ![Image of LeanSwift](images/LeanSwift-Logo-HQ.png) 
 
 
-![img1](images/1.jpeg)  &nbsp;&nbsp;&nbsp;&nbsp; 
+[![img1](images/1.jpeg)](pages/test.md)  &nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 
