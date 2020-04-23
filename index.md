@@ -1,7 +1,7 @@
 ![Image of LeanSwift](images/LeanSwift-Logo-HQ.png) 
 
 
-![img1](images/1.jpg)                  ![img3](images/3.jpg) 
+![img1](images/1.jpeg)                  ![img3](images/3.jpeg) 
 
 
 ## LeanSwift HubSpot M3 Connector: User Guide
